@@ -30,7 +30,7 @@ With expertise in **Node.js, Express and React**, I build seamless and responsiv
 
 ### **Core Technologies**
 
-- **Backend:** ASP.NET Core, Node.js, Express  
+- **Backend:** Node.js, Express  
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
 - **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB  
 - **Tools & DevOps:** Git, GitHub, GitHub Actions, Vercel, Figma  
