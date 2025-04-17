@@ -16,22 +16,35 @@ With expertise in **ASP.NET Core, React, and Node.js**, I build seamless and res
 
 ---
 
+## 💼 Professional Involvement
+
+- **Vice Chair of the IEEE Computer Society**
+- **CEO of iTeam**
+- **PR Officer of ACM**
+- **Public Relations Officer at TEDxDabouq**
+- **Former Web Leader & R&D at iTeam**
+- **AIESEC Member** – contributing to impactful global projects
+
+---
+
 ## 🛠️ My Tech Stack
 
 ### **Core Technologies**
 
-- **Backend:** Node.js, Express
+- **Backend:** ASP.NET Core, Node.js, Express  
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
-- **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB
+- **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB  
 - **Tools & DevOps:** Git, GitHub, GitHub Actions, Vercel, Figma  
 
----
 ### **Software Architectures (Applied in My Projects)**
 
 - **MVC (Model-View-Controller)** – Employed in **ASP.NET Core** web applications and **Java Swing** projects to separate concerns between UI, business logic, and data layers.
-- **Layered (n-tier) Architecture** – Adopted in employee management systems, dividing presentation, business, and data access layers for maintainability.
+- **Layered (n-tier) Architecture** – Adopted in the university support platform and employee management systems, dividing presentation, business, and data access layers for maintainability.
 - **Client-Server Architecture** – Used in the Android tourism hackathon app and RESTful APIs for mobile/web clients, with clear separation between front-end and back-end services.
+- **Event-Driven Architecture** – Implemented in the notifications and exam simulation modules, where components react to events (e.g., exam start, new announcement).
 - **Monolithic (MERN) Architecture** – Utilized in the schedule redesign app (Node.js, Express, React, MongoDB) as a cohesive single-unit deployment, simplifying initial development.
+- **Serverless Architecture (Prototype)** – Explored for the “Smart Pen” project’s AI summarization and speech-to-text functions, leveraging FaaS for scalable event processing.
+
 ---
 
 ## 📊 GitHub Stats
