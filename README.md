@@ -20,11 +20,18 @@ With expertise in **ASP.NET Core, React, and Node.js**, I build seamless and res
 
 ### **Core Technologies**
 
-- **Backend:** ASP.NET Core, Node.js, Express  
+- **Backend:** Node.js, Express
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
-- **Databases:** MS SQL Server, MySQL, MongoDB  
+- **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB
 - **Tools & DevOps:** Git, GitHub, GitHub Actions, Vercel, Figma  
 
+---
+### **Software Architectures (Applied in My Projects)**
+
+- **MVC (Model-View-Controller)** – Employed in **ASP.NET Core** web applications and **Java Swing** projects to separate concerns between UI, business logic, and data layers.
+- **Layered (n-tier) Architecture** – Adopted in employee management systems, dividing presentation, business, and data access layers for maintainability.
+- **Client-Server Architecture** – Used in the Android tourism hackathon app and RESTful APIs for mobile/web clients, with clear separation between front-end and back-end services.
+- **Monolithic (MERN) Architecture** – Utilized in the schedule redesign app (Node.js, Express, React, MongoDB) as a cohesive single-unit deployment, simplifying initial development.
 ---
 
 ## 📊 GitHub Stats
