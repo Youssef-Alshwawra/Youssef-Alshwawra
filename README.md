@@ -57,12 +57,6 @@ With expertise in **Node.js, Nest.js, Express and React**, I build seamless and 
 
 I’m always excited to collaborate on **innovative web projects**. If you’re interested in **full-stack development**, **UI/UX design**, or **system architecture**, let’s talk!
 
-📬 **Reach out:**
-
-- [LinkedIn](https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/)  
-- [GitHub](https://github.com/Youssef-Alshwawra)  
-- [Email](mailto:youssef.alshwawra@zuj.edu.jo)
-
 ---
 
 🚀 **Let’s build something amazing together!**  
