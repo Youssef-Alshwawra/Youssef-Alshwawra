@@ -1,15 +1,14 @@
-# 👋 Hey there, I'm Youssef Khaled Saeed Al-Shwawra (@Youssef-Alshwawra)
+# 👋 Hey there, I'm Youssef Khaled Isaid  (@Youssef-Isaid)
 
-### 🚀 Full-Stack Developer | ASP.NET Core | React | Node.js | MongoDB
+### 🚀 Full-Stack Developer | ASP.NET Core | React | Node.js | Nest.js | MongoDB | PostgreSql
 
 I'm a **full-stack developer** passionate about crafting **scalable, high-performance web applications**.  
-With expertise in **Node.js, Express and React**, I build seamless and responsive experiences using modern UI/UX practices.
+With expertise in **Node.js, Nest.js, Express and React**, I build seamless and responsive experiences using modern UI/UX practices.
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **Software Engineering Student** – Al‑Zaytoonah University of Jordan  
 - ⚙️ **Focused on full-stack architecture**, building both backend APIs with **ASP.NET Core** and frontend interfaces with **React**, **Node.js**, and **Express**  
 - 🛠️ **Experienced in database design** with **MS SQL Server**,  **PostgreSQL**, **MySQL**, and **MongoDB**  
 - 🗣️ **Passionate about sharing knowledge** – I mentor peers and host workshop sessions on web development and problem solving  
@@ -19,9 +18,6 @@ With expertise in **Node.js, Express and React**, I build seamless and responsiv
 ## 💼 Professional Involvement
 
 - **Co-founder & Backend @ Codenze** 
-- **Secretary @ ACM ZUJ** 
-- **Web Advisor @ ITeam**
-- **Cache-Team Mentor**
 - **Member @ IEEE**
 
 ---
@@ -30,7 +26,7 @@ With expertise in **Node.js, Express and React**, I build seamless and responsiv
 
 ### **Core Technologies**
 
-- **Backend:** Node.js, Express  
+- **Backend:** Node.js, Nest.js Express  
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
 - **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB  
 - **Tools & DevOps:** Git, GitHub, GitHub Actions, Vercel, Figma  
