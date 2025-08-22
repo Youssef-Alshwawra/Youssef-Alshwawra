@@ -1,5 +1,9 @@
 # 👋 Hey there, I'm Yousef Khaled Isaid  (@Yousef-Isaid)
 
+<a href="https://github.com/itsmutasem">
+    <img src="https://komarev.com/ghpvc/?username=itsmutasem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="itsmutasem" />
+   </a>
+
 ### 🚀 Full-Stack Developer | ASP.NET Core | React | Node.js | Nest.js | MongoDB | PostgreSql
 
 I'm a **full-stack developer** passionate about crafting **scalable, high-performance web applications**.  
