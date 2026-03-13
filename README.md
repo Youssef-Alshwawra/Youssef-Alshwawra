@@ -1,73 +1,32 @@
-# 👋 Hey there, I'm Youssef Khaled Isaid Al-Shwawra (@Youssef-Alshwawra)
+## About Me
 
-### 🚀 Full-Stack Developer | ASP.NET Core | React | Node.js | MongoDB
+Hi, I'm Youssef Al-Shwawra, a passionate full-stack developer and Software Engineering student at Al‑Zaytoonah University of Jordan. I love crafting scalable, high-performance web applications from end to end. With a strong foundation in both frontend (React) and backend (Node.js, ASP.NET Core) technologies, I enjoy building seamless and responsive experiences using modern UI/UX practices. I'm experienced in database design (SQL Server, PostgreSQL, MongoDB) and various software architectures like MVC and n-tier. When I'm not coding, you can find me mentoring peers, hosting workshop sessions, or sharing my knowledge with the developer community.
 
-I'm a **full-stack developer** passionate about crafting **scalable, high-performance web applications**.  
-With expertise in **Node.js, Express and React**, I build seamless and responsive experiences using modern UI/UX practices.
+## My Skills
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff"> 
+<img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white"> 
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"> 
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white"> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white"> 
 
-## 💡 About Me
+## GitHub Stats 🔥
 
-* 🎓 **Software Engineering Student** – Al‑Zaytoonah University of Jordan  
-* ⚙️ **Focused on full-stack architecture**, building both backend APIs with **ASP.NET Core** and frontend interfaces with **React**, **Node.js**, and **Express**  
-* 🛠️ **Experienced in database design** with **MS SQL Server**,  **PostgreSQL**, **MySQL**, and **MongoDB**  
-* 🗣️ **Passionate about sharing knowledge** – I mentor peers and host workshop sessions on web development and problem solving  
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Youssef-Alshwawra&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
+</div>
 
----
+## Connect with me
 
-## 💼 Professional Involvement
-
-* **Co-founder & Backend @ Codenze** 
-* **Secretary @ ACM ZUJ** 
-* **Web Advisor @ ITeam**
-* **Cache-Team Mentor**
-* **Member @ IEEE**
-
----
-
-## 🛠️ My Tech Stack
-
-### **Core Technologies**
-
-* **Backend:** Node.js, Express  
-* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS  
-* **Databases:** MS SQL Server, PostgreSQL, MySQL, MongoDB  
-* **Tools & DevOps:** Git, GitHub, GitHub Actions, Vercel, Figma  
-
-### **Software Architectures (Applied in My Projects)**
-
-* **MVC (Model-View-Controller)** – Employed in **ASP.NET Core** web applications and **Java Swing** projects to separate concerns between UI, business logic, and data layers.
-* **Layered (n-tier) Architecture** – Adopted in employee management systems, dividing presentation, business, and data access layers for maintainability.
-* **Client-Server Architecture** – Used in the Android tourism hackathon app and RESTful APIs for mobile/web clients, with clear separation between front-end and back-end services.
-* **Monolithic (MERN) Architecture** – Utilized in the schedule redesign app (Node.js, Express, React, MongoDB) as a cohesive single-unit deployment, simplifying initial development.
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Youssef-Alshwawra&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-## 🔥 GitHub Streak Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Alshwawra&theme=dark&hide_border=false)
-
-## 📈 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Alshwawra&theme=dark&hide_border=false&layout=compact)
-
----
-
-## 🌍 Let’s Connect!
-
-I’m always excited to collaborate on **innovative web projects**. If you’re interested in **full-stack development**, **UI/UX design**, or **system architecture**, let’s talk!
-
-📬 **Reach out:**
-
-* [LinkedIn](https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/)  
-* [GitHub](https://github.com/Youssef-Alshwawra)  
-* [Email](mailto:youssef.alshwawra@zuj.edu.jo)
-
----
-
-🚀 **Let’s build something amazing together!**  
-⭐️ Feel free to reach out anytime! ⭐️
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">Youssef Al-Shwawra</a> Email: youssef.alshwawra@zuj.edu.jo</p>
