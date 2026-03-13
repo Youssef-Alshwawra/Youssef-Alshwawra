@@ -8,7 +8,7 @@
 
 </div>
 
-### 🧑‍💻 About Me
+### About Me
 
 - 🎓 **Software Engineering** student at **Al-Zaytoonah University of Jordan**
 - 💡 Focused on building **scalable backend APIs** and **modern frontends**
