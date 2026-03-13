@@ -1,6 +1,22 @@
-## About Me
+<div align="center">
 
-Hi, I'm Youssef Al-Shwawra, a passionate full-stack developer and Software Engineering student at Al‑Zaytoonah University of Jordan. I love crafting scalable, high-performance web applications from end to end. With a strong foundation in both frontend (React) and backend (Node.js, ASP.NET Core) technologies, I enjoy building seamless and responsive experiences using modern UI/UX practices. I'm experienced in database design (SQL Server, PostgreSQL, MongoDB) and various software architectures like MVC and n-tier. When I'm not coding, you can find me mentoring peers, hosting workshop sessions, or sharing my knowledge with the developer community.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hey%2C%20I'm%20Youssef!%20%F0%9F%91%8B&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Full-Stack+Developer+%7C+Co-founder+%40+Codenze;Node.js+%7C+React+%7C+ASP.NET+Core+%7C+Databases;Software+Engineering+%40+Al-Zaytoonah+University" alt="Typing SVG" />
+</a>
+
+</div>
+
+### 🧑‍💻 About Me
+
+- 🎓 **Software Engineering** student at **Al-Zaytoonah University of Jordan**
+- 💡 Focused on building **scalable backend APIs** and **modern frontends**
+- 🗄️ Experienced with **SQL Server, PostgreSQL, MySQL & MongoDB**
+- 🏗️ Applied architectures: **MVC, Layered n-tier, Client-Server, MERN**
+- 📬 Reach me: **yousef.alshwawra@gmail.com**
+
+<br clear="right" />
 
 ## My Skills
 
