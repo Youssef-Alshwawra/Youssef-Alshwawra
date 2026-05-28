@@ -1,0 +1,9 @@
+# Local render / preview artifacts
+assets/_*.png
+assets/_*.html
+*.preview.png
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
