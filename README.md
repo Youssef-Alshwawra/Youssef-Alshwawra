@@ -93,7 +93,6 @@ contact: yousef.alshwawra@gmail.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Alshwawra&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&titleColor=58A6FF" alt="GitHub Streak" />
 
-
 </div>
 
 <br/>
