@@ -35,46 +35,11 @@ contact: yousef.alshwawra@gmail.com
 
 <img src="./assets/sec-stack.svg" width="100%" alt="Tech Stack" />
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div align="center">
 
-### 🌐 Frontend
+<img src="./assets/tech-stack.svg" width="100%" alt="Youssef's tech stack as code" />
 
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Blade-0D1117?style=for-the-badge&logo=laravel&logoColor=FB503B" alt="Blade">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=2965F1" alt="CSS3">
-
-### ⚙️ Backend
-
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=8993BE" alt="PHP">
-<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FB503B" alt="Laravel">
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-
-</td>
-<td valign="top" width="50%">
-
-### 🗄️ Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB">
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
-
-### 🧰 DevOps & Tools
-
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/Bitbucket-0D1117?style=for-the-badge&logo=bitbucket&logoColor=2684FF" alt="Bitbucket">
-
-</td>
-  </tr>
-</table>
+</div>
 
 <br/>
 
