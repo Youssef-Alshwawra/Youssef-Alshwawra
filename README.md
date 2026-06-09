@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Al-Shwawra&fontSize=44&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+backend+APIs;Crafting+modern+React+frontends;Node.js+%7C+ASP.NET+Core+%7C+Databases" alt="Typing SVG" />
-</a>
+<img src="./assets/header.svg" width="100%" alt="Youssef Al-Shwawra — Full-Stack Developer" />
 
 <p>
+  <img src="https://img.shields.io/badge/Based_in-Jordan-30363D?style=flat-square" alt="Based in Jordan" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-1f6feb?style=flat-square" alt="Open to opportunities" />
+  &nbsp;
   <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:yousef.alshwawra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Youssef-Alshwawra&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 </div>
 
-<br/>
+---
 
 ## 👨‍💻 About Me
 
