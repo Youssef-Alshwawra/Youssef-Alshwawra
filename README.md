@@ -47,16 +47,7 @@ contact: yousef.alshwawra@gmail.com
 
 <div align="center">
 
-<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Alshwawra&bg_color=0D1117&color=c9d1d9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&radius=16&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Youssef-Alshwawra&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363D&ring_color=58A6FF" alt="Youssef's GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Alshwawra&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363D" alt="Most Used Languages" />
-
-<br/>
-
-<img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Alshwawra&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&titleColor=58A6FF" alt="GitHub Streak" />
+<img width="98%" src="https://yourinsights.vercel.app/api/insight?username=Youssef-Alshwawra&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="Youssef's GitHub Insights" />
 
 </div>
 
