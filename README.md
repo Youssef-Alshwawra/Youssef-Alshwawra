@@ -1,43 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Hey%2C%20I'm%20Youssef!%20%F0%9F%91%8B&fontSize=38&fontColor=fff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Youssef%20Al-Shwawra&fontSize=44&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Software%20Engineering%20Student&descSize=18&descAlignY=62&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=300&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Full-Stack+Developer+%7C;Node.js+%7C+React+%7C+ASP.NET+Core+%7C+Databases;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+scalable+backend+APIs;Crafting+modern+React+frontends;Node.js+%7C+ASP.NET+Core+%7C+Databases" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:yousef.alshwawra@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Youssef-Alshwawra&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+```yaml
+name: Youssef Al-Shwawra
+role: Full-Stack Developer
+education: Software Engineering @ Al-Zaytoonah University of Jordan
+focus:
+  - Scalable backend APIs
+  - Modern, responsive frontends
+architectures: [ MVC, Layered n-tier, Client-Server, MERN ]
+databases: [ SQL Server, PostgreSQL, MySQL, MongoDB ]
+contact: yousef.alshwawra@gmail.com
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### 🌐 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
+
+### ⚙️ Backend
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff" alt=".NET">
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+
+</td>
+<td valign="top" width="50%">
+
+### 🗄️ Databases
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+
+### 🧰 Tools & Platforms
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Alshwawra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Alshwawra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Alshwawra&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Al--Shwawra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:yousef.alshwawra@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-yousef.alshwawra-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
 
-### About Me
+<br/>
 
-- 🎓 **Software Engineering** student at **Al-Zaytoonah University of Jordan**
-- 💡 Focused on building **scalable backend APIs** and **modern frontends**
-- 🗄️ Experienced with **SQL Server, PostgreSQL, MySQL & MongoDB**
-- 🏗️ Applied architectures: **MVC, Layered n-tier, Client-Server, MERN**
-- 📬 Reach me: **yousef.alshwawra@gmail.com**
-
-<br clear="right" />
-
-## My Skills
-
-### 🌐 Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white" alt="Bootstrap">
-
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js"> <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt=".NET"> <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
-
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white" alt="MS SQL Server"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
-
-### 🛠️ Tools
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white" alt="GitHub"> 
-
-## GitHub Stats 🔥
-
-<div align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=Youssef-Alshwawra&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" alt="GitHub Insights" />
-</div>
-
-## Connect with me
-
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">Youssef Al-Shwawra</a> Email: yousef.alshwawra@gmail.com</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
