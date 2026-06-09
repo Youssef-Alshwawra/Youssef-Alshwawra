@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Youssef Al-Shwawra — Full-Stack Developer" />
+<img src="./assets/header.svg" width="100%" alt="Youssef Shwawra — Full-Stack Developer" />
 
 <p>
   <img src="https://img.shields.io/badge/Based_in-Jordan-30363D?style=flat-square" alt="Based in Jordan" />
@@ -22,13 +22,12 @@
 
 ```yaml
 name: Youssef Al-Shwawra
-role: Full-Stack Developer
-education: Software Engineering @ Al-Zaytoonah University of Jordan
+role: Full-Stack Web Developer
 focus:
-  - Scalable backend APIs
-  - Modern, responsive frontends
-architectures: [ MVC, Layered n-tier, Client-Server, MERN ]
-databases: [ SQL Server, PostgreSQL, MySQL, MongoDB ]
+  - Backend APIs with PHP / Laravel & Node.js
+  - Modern frontends with React & Next.js
+  - Containerized deployments on Docker & Ubuntu
+databases: [ PostgreSQL, MongoDB, MySQL ]
 contact: yousef.alshwawra@gmail.com
 ```
 
@@ -41,33 +40,33 @@ contact: yousef.alshwawra@gmail.com
     <td valign="top" width="50%">
 
 ### 🌐 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square&logo=laravel&logoColor=white" alt="Blade">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap">
 
 ### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff" alt=".NET">
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
 
 </td>
 <td valign="top" width="50%">
 
 ### 🗄️ Databases
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 
-### 🧰 Tools & Platforms
+### 🧰 DevOps & Tools
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman">
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket">
 
 </td>
   </tr>
@@ -101,6 +100,8 @@ contact: yousef.alshwawra@gmail.com
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<div align="center">
+  <sub><b>Thanks for stopping by!</b> &nbsp;·&nbsp; Open to new opportunities and collaborations.</sub>
+</div>
