@@ -27,7 +27,7 @@ focus:
   - Backend APIs with PHP / Laravel & Node.js
   - Modern frontends with React & Next.js
   - Containerized deployments on Docker & Ubuntu
-databases: [ PostgreSQL, MongoDB, MySQL ]
+databases: [PostgreSQL, MongoDB, MySQL]
 contact: yousef.alshwawra@gmail.com
 ```
 
@@ -40,6 +40,7 @@ contact: yousef.alshwawra@gmail.com
     <td valign="top" width="50%">
 
 ### 🌐 Frontend
+
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
@@ -49,6 +50,7 @@ contact: yousef.alshwawra@gmail.com
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3">
 
 ### ⚙️ Backend
+
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -57,11 +59,13 @@ contact: yousef.alshwawra@gmail.com
 <td valign="top" width="50%">
 
 ### 🗄️ Databases
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
 
 ### 🧰 DevOps & Tools
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
@@ -78,6 +82,10 @@ contact: yousef.alshwawra@gmail.com
 
 <div align="center">
 
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Alshwawra&bg_color=0D1117&color=c9d1d9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&radius=16&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
+
+<br/>
+
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Youssef-Alshwawra&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&border_color=30363D&ring_color=58A6FF" alt="Youssef's GitHub Stats" />
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Alshwawra&layout=compact&langs_count=8&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&border_color=30363D" alt="Most Used Languages" />
 
@@ -85,9 +93,6 @@ contact: yousef.alshwawra@gmail.com
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Alshwawra&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&titleColor=58A6FF" alt="GitHub Streak" />
 
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Youssef-Alshwawra&bg_color=0D1117&color=c9d1d9&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&radius=16&custom_title=Contribution%20Activity" alt="Contribution Activity Graph" />
 
 </div>
 
