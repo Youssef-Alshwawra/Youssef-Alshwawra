@@ -37,7 +37,7 @@ contact: yousef.alshwawra@gmail.com
 
 <div align="center">
 
-<img src="./assets/tech-stack.svg" width="100%" alt="Youssef's tech stack as code" />
+<img src="./assets/tech-stack-grid.svg" width="100%" alt="Youssef's tech stack — React, Next.js, Tailwind, Blade, JavaScript, HTML5, CSS3, PHP, Laravel, Node.js, PostgreSQL, MongoDB, MySQL, Docker, Ubuntu, Git, GitHub, Bitbucket" />
 
 </div>
 
