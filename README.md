@@ -3,14 +3,13 @@
 <img src="./assets/header.svg" width="100%" alt="Youssef Shwawra — Full-Stack Developer" />
 
 <p>
-  <img src="https://img.shields.io/badge/Based_in-Jordan-30363D?style=flat-square" alt="Based in Jordan" />
-  <img src="https://img.shields.io/badge/Open_to-Opportunities-1f6feb?style=flat-square" alt="Open to opportunities" />
-  &nbsp;
+  <img src="https://img.shields.io/badge/Based_in-Jordan-58A6FF?style=flat-square&labelColor=161B22" alt="Based in Jordan" />
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-3FB950?style=flat-square&labelColor=161B22" alt="Open to opportunities" />
   <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" />
   </a>
   <a href="mailto:yousef.alshwawra@gmail.com">
-    <img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" />
   </a>
 </p>
 
@@ -20,16 +19,7 @@
 
 <img src="./assets/sec-about.svg" width="100%" alt="About Me" />
 
-```yaml
-name: Youssef Al-Shwawra
-role: Full-Stack Web Developer
-focus:
-  - Backend APIs with PHP / Laravel & Node.js
-  - Modern frontends with React & Next.js
-  - Containerized deployments on Docker & Ubuntu
-databases: [PostgreSQL, MongoDB, MySQL]
-contact: yousef.alshwawra@gmail.com
-```
+<img src="./assets/about.svg" width="100%" alt="Full-Stack Web Developer building products end-to-end with PHP, Laravel, Node.js, React, Next.js, Docker and Ubuntu" />
 
 <br/>
 
@@ -58,10 +48,10 @@ contact: yousef.alshwawra@gmail.com
 <div align="center">
 
 <a href="https://www.linkedin.com/in/youssef-alshwawra-2b56482a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Al--Shwawra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Al--Shwawra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161B22" alt="LinkedIn" />
 </a>
 <a href="mailto:yousef.alshwawra@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-yousef.alshwawra-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Gmail-yousef.alshwawra-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161B22" alt="Email" />
 </a>
 
 </div>

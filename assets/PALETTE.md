@@ -11,5 +11,5 @@ The color tokens used across the profile's custom SVG assets.
 | Text         | `#C9D1D9` | Primary text                   |
 | Muted        | `#8B949E` | Secondary / comment text       |
 
-Syntax accents (tech-stack.svg): keywords `#FF7B72`, object `#FFA657`,
-keys `#79C0FF`, strings `#A5D6FF`.
+Accent tints used in the tech-stack icon grid follow each tool's
+official brand color (see `tech-stack-grid.svg`).
